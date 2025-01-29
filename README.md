@@ -1,7 +1,7 @@
 # Desafio 02: Clonando a Página de Visualização do YouTube com CSS
 
 Seja bem-vindo(a) ao **segundo desafio da Trilha de CSS da DIO**! 🎉  
-Neste desafio, você terá como objetivo clonar a página de visualização de vídeos do YouTube, colocando em prática todos os conceitos aprendidos até aqui, com foco especial em:
+Neste desafio, o objetivo foi clonar a página de visualização de vídeos do YouTube, colocando em prática os conceitos aprendidos, com foco especial em:
 
 - Estruturas de layout com **Flexbox**.
 - Aplicação de estilizações avançadas utilizando **CSS**.
@@ -11,9 +11,14 @@ Neste desafio, você terá como objetivo clonar a página de visualização de v
 
 ## 🚀 Objetivo do Desafio
 
-Reproduzir a interface da página de visualização do YouTube, incluindo o vídeo principal, seção de descrição, área de comentários e a lista de vídeos recomendados.  
-Para isso, você irá aplicar na prática os conhecimentos adquiridos sobre **Flexbox** e outras propriedades de layout.
+Reproduzir a interface da página de visualização do YouTube, incluindo:
 
+- O vídeo principal.
+- A seção de descrição.
+- A área de comentários.
+- A lista de vídeos recomendados.
+
+O desafio envolveu a aplicação prática dos conhecimentos adquiridos sobre **Flexbox** e outras propriedades de layout.
 ---
 
 ## 🎨 Elementos Visuais
