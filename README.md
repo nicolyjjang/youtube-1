@@ -37,6 +37,9 @@ Ao finalizar o desafio, sua página deverá ter a seguinte estrutura:
 - **Descrição:** Título, informações e botões de interação.
 - **Vídeos recomendados:** Lista de thumbnails ao lado direito.
 
+Para visualizar o resultado final esperado da Landing Page, clique aqui:
+[Resultado Final](https://nicolyjjang.github.io/youtube-1/)
+
 ---
 ## Imagens do Projeto
 [Desktop](https://github.com/user-attachments/assets/a3568be1-0a68-4675-a201-e4598d78d18a)
@@ -51,4 +54,3 @@ Ao finalizar o desafio, sua página deverá ter a seguinte estrutura:
 
 ---
 
-👩‍💻 **Divirta-se codando e aproveite o desafio para consolidar seus conhecimentos em CSS e Flexbox!**
